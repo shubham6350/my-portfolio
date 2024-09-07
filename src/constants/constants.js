@@ -23,7 +23,7 @@ export const projects = [
     title: "AI Bot",
     description:
       "An AIChatBot built using React Native, OpenAI API, and Firebase allows users to engage in natural language conversations and generate images based on prompts. Firebase handles user authentication, real-time data storage, and chat history, ensuring a seamless cross-platform experience. The app integrates AI-driven text responses and image generation, making it versatile for creative and functional use cases.",
-    image: "/images/AIBOT.jpeg",
+    image: "/images/5.jpeg",
     tags: ["React Native", "Firebase", "Expo", "OpenAI"],
     source:
       "https://firebasestorage.googleapis.com/v0/b/poetry-app-375f5.appspot.com/o/Screen%20Recording%202023-05-04%20at%201.54.10%20PM.mov?alt=media&token=865c5814-62f8-4caa-84cf-2187a7bc73a8",
