@@ -6,7 +6,7 @@ export const projects = [
     image: "/images/CometChat-Main-Screen.png",
     tags: ["React Native", "Redux", "CometChat Sdk", "Firebase"],
     source: "https://www.youtube.com/watch?v=VmIX65mLURc&t=30s",
-    visit: "https://google.com",
+    visit: "https://github.com/shubham6350/showcase-chat-app/tree/main",
     id: 0,
   },
   {
@@ -22,11 +22,12 @@ export const projects = [
   {
     title: "AI Bot",
     description:
-      "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
-    image: "/images/3.jpg",
-    tags: ["React", "WebRTC"],
-    source: "https://google.com",
-    visit: "https://google.com",
+      "An AIChatBot built using React Native, OpenAI API, and Firebase allows users to engage in natural language conversations and generate images based on prompts. Firebase handles user authentication, real-time data storage, and chat history, ensuring a seamless cross-platform experience. The app integrates AI-driven text responses and image generation, making it versatile for creative and functional use cases.",
+    image: "/images/AIBOT.jpeg",
+    tags: ["React Native", "Firebase", "Expo", "OpenAI"],
+    source:
+      "https://firebasestorage.googleapis.com/v0/b/poetry-app-375f5.appspot.com/o/Screen%20Recording%202023-05-04%20at%201.54.10%20PM.mov?alt=media&token=865c5814-62f8-4caa-84cf-2187a7bc73a8",
+    visit: "https://github.com/shubham6350/AIBot",
     id: 2,
   },
   {
