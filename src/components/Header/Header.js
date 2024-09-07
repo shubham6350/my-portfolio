@@ -15,7 +15,7 @@ import {
 const Header = () => (
   <Container>
     <Div1>
-      <Link href="/">
+      <Link href="/" legacyBehavior>
         <a style={{ display: "flex", alignItems: "center", color: "white" }}>
           <DiCssdeck size="3rem" /> <span>Shubham</span>
         </a>
